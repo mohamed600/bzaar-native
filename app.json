@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "BZAAR",
+    "slug": "bzaar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "ma.bzaar.app"
+    },
+    "android": {
+      "package": "ma.bzaar.app",
+      "versionCode": 1
+    }
+  }
+}
