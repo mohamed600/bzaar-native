@@ -13,6 +13,11 @@
     "android": {
       "package": "ma.bzaar.app",
       "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "da279e2f-65ec-4829-86ec-c36c8515cedf"
+      }
     }
   }
 }
